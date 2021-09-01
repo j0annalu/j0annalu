@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @j0annalu
+- 👀 I’m interested in design, music, and anime. 
+- 🌱 I’m currently learning user experience/interaction design and html + css.
+- 💞️ I’m looking to collaborate on product design.
+- 📫 Reach me at joannalu415@gmail.com
